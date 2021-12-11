@@ -1,1 +1,1 @@
-# magic_navigation
+# magic navigation (pure html css and javascript)
